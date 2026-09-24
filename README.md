@@ -7,21 +7,24 @@
 ## Основной стек
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ## Избранные публичные проекты
 
 | Проект | Что это | Стек |
 |---|---|---|
-| [**gos-exam-trainer**](https://github.com/AndrMiAl/gos-exam-trainer) | Веб-тренажёр для подготовки к ГОСам: вопросы, материалы, профили, попытки и статистика | Vue 3, TypeScript, Node.js, Express, Pinia |
-| [**ml-neural-networks-labs**](https://github.com/AndrMiAl/ml-neural-networks-labs) | Практические Jupyter Notebook по машинному обучению и нейронным сетям | Python, Jupyter, ML |
-| [**kotlin-practice**](https://github.com/AndrMiAl/kotlin-practice) | Учебные задачи, алгоритмы и примеры на Kotlin | Kotlin |
+| [**gos-exam-trainer**](https://github.com/AndrMiAl/gos-exam-trainer) | Веб-тренажёр для подготовки к ГОСам: законченный интерфейс, гостевой режим, статистика, тесты и CI | Vue 3, TypeScript, Node.js, Express, Pinia |
+| [**vacancy-tracker-api**](https://github.com/AndrMiAl/vacancy-tracker-api) | REST API для вакансий и воронки откликов: фильтрация, SQLite, тесты, CI и Docker | Python, FastAPI, SQLite, Pytest, Docker |
+| [**ml-neural-networks-labs**](https://github.com/AndrMiAl/ml-neural-networks-labs) | Практические Jupyter Notebook по машинному обучению и нейронным сетям с запуском в Colab | Python, Jupyter, NumPy, Pandas, scikit-learn |
+| [**kotlin-practice**](https://github.com/AndrMiAl/kotlin-practice) | Учебные задачи: коллекции, функции высшего порядка, алгоритмы и ООП | Kotlin |
 
 ## Другие проекты
 
