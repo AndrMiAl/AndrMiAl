@@ -1,6 +1,6 @@
 # Привет! Я AndrMiAl 👋
 
-**Python / Backend / Data / ML / Automation / n8n / Linux**
+**Python / Backend / Data / ML / n8n / Automation / Linux**
 
 Фокусируюсь на прикладной разработке: рабочие веб-системы, Python/ML, автоматизация и Linux-инфраструктура. Учебные проекты оставляю ниже — основной акцент здесь на реальных и командных задачах.
 
@@ -11,10 +11,10 @@
 | # | Проект | Что это | Стек |
 |---:|---|---|---|
 | 1 | [**AtlasProf — Атлас профессий**](https://github.com/AndrMiAl/engineering-portfolio/blob/main/docs/atlasprof.md) | Командная веб-система: карта направлений, профессии, образовательные траектории, база знаний и админка | Python, Flask, PostgreSQL, React |
-| 2 | [**Unified VPS Panel — 2 хостинга в 1 сайте**](https://github.com/AndrMiAl/engineering-portfolio/blob/main/docs/unified-vps-panel.md) | Единая панель управления двумя VPS-площадками, состоянием сервисов, пользователями и конфигурациями | Python, Flask, JavaScript, Linux, nginx, 3x-ui |
-| 3 | [**ЖКХ40**](https://github.com/AndrMiAl/engineering-portfolio/blob/main/docs/zhkh40.md) | Командный Flask-сервис: база знаний, чат-сценарии, калькуляторы, DOCX и админка | Python, Flask, JavaScript, DOCX |
-| 4 | [**Хакатон 2024 — ML и геоданные**](https://github.com/AndrMiAl/engineering-portfolio/blob/main/docs/hakaton-2024.md) | ML-классификация ошибок тепловых данных, обработка Excel, геокодирование и карта | Python, Pandas, scikit-learn, TensorFlow, Folium |
-| 5 | [**n8n Automation**](https://github.com/AndrMiAl/engineering-portfolio/blob/main/docs/n8n-automation.md) | Production orchestration для Python-сервисов и контентного pipeline | n8n, Python, REST/API, Linux, systemd |
+| 2 | [**2 хостинга в 1 сайте**](https://github.com/AndrMiAl/engineering-portfolio/blob/main/docs/unified-vps-panel.md) | Единый сайт и панель управления двумя VPS-площадками: состояние сервисов, пользователи, конфигурации и автоматизация | Python, Flask, n8n, JavaScript, Linux, nginx, 3x-ui |
+| 3 | [**n8n Automation**](https://github.com/AndrMiAl/engineering-portfolio/blob/main/docs/n8n-automation.md) | Orchestration и автоматизация вокруг Python-сервисов, серверной инфраструктуры, API и событий | n8n, Python, REST/API, Linux, systemd |
+| 4 | [**ЖКХ40**](https://github.com/AndrMiAl/engineering-portfolio/blob/main/docs/zhkh40.md) | Командный Flask-сервис: база знаний, чат-сценарии, калькуляторы, DOCX и админка | Python, Flask, JavaScript, DOCX |
+| 5 | [**Хакатон 2024 — ML и геоданные**](https://github.com/AndrMiAl/engineering-portfolio/blob/main/docs/hakaton-2024.md) | ML-классификация ошибок тепловых данных, обработка Excel, геокодирование и карта | Python, Pandas, scikit-learn, TensorFlow, Folium |
 
 ## Другие рабочие технические проекты
 
