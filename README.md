@@ -1,4 +1,4 @@
-# Привет! Я AndrMiAl 👋
+# Привет! Я AndrMi
 
 **Python / Backend / Data / ML / n8n / Automation / Linux**
 
