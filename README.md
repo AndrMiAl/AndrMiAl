@@ -24,7 +24,7 @@
 
 ## Публичный код
 
-- [**vacancy-tracker-api**](https://github.com/AndrMiAl/vacancy-tracker-api) — REST API для вакансий и воронки откликов: FastAPI, SQLite, Pytest, Docker, CI;
+- [**tracker-api**](https://github.com/AndrMiAl/vacancy-tracker-api) — REST API для вакансий и воронки откликов: FastAPI, SQLite, Pytest, Docker, CI;
 - [**gos-exam-trainer**](https://github.com/AndrMiAl/gos-exam-trainer) — веб-тренажёр на Vue/TypeScript/Node.js с тестами и CI.
 
 ## Учебные проекты
