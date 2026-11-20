@@ -2,7 +2,7 @@
 
 **Python / Backend / Data / ML / n8n / Automation / Linux**
 
-Фокусируюсь на прикладной разработке: рабочие веб-системы, Python/ML, автоматизация и Linux-инфраструктура. Учебные проекты оставляю ниже — основной акцент здесь на реальных и командных задачах.
+Фокусируюсь на прикладной разработке: рабочие веб-системы, Python/ML, автоматизация и Linux-инфраструктура. Учебные проекты оставляю ниже - основной акцент здесь на реальных и командных задачах.
 
 ## Основные проекты
 
@@ -10,27 +10,27 @@
 
 | # | Проект | Что это | Стек |
 |---:|---|---|---|
-| 1 | [**AtlasProf — Атлас профессий**](https://github.com/AndrMiAl/engineering-portfolio/blob/main/docs/atlasprof.md) | Командная веб-система: карта направлений, профессии, образовательные траектории, база знаний и админка | Python, Flask, PostgreSQL, React |
+| 1 | [**AtlasProf - Атлас профессий**](https://github.com/AndrMiAl/engineering-portfolio/blob/main/docs/atlasprof.md) | Командная веб-система: карта направлений, профессии, образовательные траектории, база знаний и админка | Python, Flask, PostgreSQL, React |
 | 2 | [**2 хостинга в 1 сайте**](https://github.com/AndrMiAl/engineering-portfolio/blob/main/docs/unified-vps-panel.md) | Единый сайт и панель управления двумя VPS-площадками: состояние сервисов, пользователи, конфигурации и автоматизация | Python, Flask, n8n, JavaScript, Linux, nginx, 3x-ui |
 | 3 | [**n8n Automation**](https://github.com/AndrMiAl/engineering-portfolio/blob/main/docs/n8n-automation.md) | Orchestration и автоматизация вокруг Python-сервисов, серверной инфраструктуры, API и событий | n8n, Python, REST/API, Linux, systemd |
 | 4 | [**ЖКХ40**](https://github.com/AndrMiAl/engineering-portfolio/blob/main/docs/zhkh40.md) | Командный Flask-сервис: база знаний, чат-сценарии, калькуляторы, DOCX и админка | Python, Flask, JavaScript, DOCX |
-| 5 | [**Хакатон 2024 — ML и геоданные**](https://github.com/AndrMiAl/engineering-portfolio/blob/main/docs/hakaton-2024.md) | ML-классификация ошибок тепловых данных, обработка Excel, геокодирование и карта | Python, Pandas, scikit-learn, TensorFlow, Folium |
+| 5 | [**Хакатон 2024 - ML и геоданные**](https://github.com/AndrMiAl/engineering-portfolio/blob/main/docs/hakaton-2024.md) | ML-классификация ошибок тепловых данных, обработка Excel, геокодирование и карта | Python, Pandas, scikit-learn, TensorFlow, Folium |
 
 ## Другие рабочие технические проекты
 
-- [**PageKeeper**](https://github.com/AndrMiAl/engineering-portfolio/blob/main/docs/pagekeeper.md) — браузерное расширение для сохранения веб-страниц в PDF и редактируемый Word;
-- [**Boberchik Infrastructure**](https://github.com/AndrMiAl/engineering-portfolio/blob/main/docs/boberchik-infrastructure.md) — Linux/nginx/systemd, deployment, backup/recovery и проверки безопасности;
-- [**Anime Factory**](https://github.com/AndrMiAl/engineering-portfolio/blob/main/docs/anime-factory.md) — Python/FFmpeg pipeline анализа, рендера и публикации коротких видео. Здесь он намеренно стоит последним среди рабочих проектов.
+- [**PageKeeper**](https://github.com/AndrMiAl/engineering-portfolio/blob/main/docs/pagekeeper.md) - браузерное расширение для сохранения веб-страниц в PDF и редактируемый Word;
+- [**Boberchik Infrastructure**](https://github.com/AndrMiAl/engineering-portfolio/blob/main/docs/boberchik-infrastructure.md) - Linux/nginx/systemd, deployment, backup/recovery и проверки безопасности;
+- [**Anime Factory**](https://github.com/AndrMiAl/engineering-portfolio/blob/main/docs/anime-factory.md) - Python/FFmpeg pipeline анализа, рендера и публикации коротких видео. Здесь он намеренно стоит последним среди рабочих проектов.
 
 ## Публичный код
 
-- [**tracker-api**](https://github.com/AndrMiAl/vacancy-tracker-api) — REST API для вакансий и воронки откликов: FastAPI, SQLite, Pytest, Docker, CI;
-- [**gos-exam-trainer**](https://github.com/AndrMiAl/gos-exam-trainer) — веб-тренажёр на Vue/TypeScript/Node.js с тестами и CI.
+- [**tracker-api**](https://github.com/AndrMiAl/vacancy-tracker-api) - REST API для вакансий и воронки откликов: FastAPI, SQLite, Pytest, Docker, CI;
+- [**gos-exam-trainer**](https://github.com/AndrMiAl/gos-exam-trainer) - веб-тренажёр на Vue/TypeScript/Node.js с тестами и CI.
 
 ## Учебные проекты
 
-- [**ml-neural-networks-labs**](https://github.com/AndrMiAl/ml-neural-networks-labs) — Jupyter Notebook по ML и нейронным сетям;
-- [**kotlin-practice**](https://github.com/AndrMiAl/kotlin-practice) — алгоритмы, коллекции, функции высшего порядка и ООП на Kotlin.
+- [**ml-neural-networks-labs**](https://github.com/AndrMiAl/ml-neural-networks-labs) - Jupyter Notebook по ML и нейронным сетям;
+- [**kotlin-practice**](https://github.com/AndrMiAl/kotlin-practice) - алгоритмы, коллекции, функции высшего порядка и ООП на Kotlin.
 
 ## Стек и инструменты
 
